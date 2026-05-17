@@ -1,0 +1,13 @@
+input,target
+Translate Spanish to English: Hola, ¿cómo estás?,Hello, how are you?
+Translate Spanish to English: Estoy aprendiendo inteligencia artificial.,I am learning artificial intelligence.
+Translate Spanish to English: Bienvenido al sistema.,Welcome to the system.
+Translate Spanish to English: Estoy estudiando ingeniería de software.,I am studying software engineering.
+Translate Spanish to English: El modelo Transformer procesa texto.,The Transformer model processes text.
+Translate Spanish to English: La aplicación funciona correctamente.,The application works correctly.
+Classify the sentiment as positivo, negativo or neutral: El servicio fue excelente.,positivo
+Classify the sentiment as positivo, negativo or neutral: El producto llegó roto.,negativo
+Classify the sentiment as positivo, negativo or neutral: La atención fue normal.,neutral
+Classify the sentiment as positivo, negativo or neutral: Me encantó la aplicación.,positivo
+Classify the sentiment as positivo, negativo or neutral: El envío tardó demasiado.,negativo
+Classify the sentiment as positivo, negativo or neutral: El sistema funciona de manera regular.,neutral

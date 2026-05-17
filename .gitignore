@@ -1,0 +1,4 @@
+modelo_multitarea/
+venv/
+__pycache__/
+.DS_Store
